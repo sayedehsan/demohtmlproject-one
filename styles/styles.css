@@ -1,0 +1,131 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+    background-image: url("../images/banner/banner1.png");
+    background-position: center;
+    width: 1500px;
+    height: 750px;
+}
+
+.banner-content {
+    padding: 140px 200px 0px 800px;
+    text-align: end;
+}
+
+.header-title {
+    color: #151414;
+    font-size: 65px;
+}
+
+.header-desc {
+    margin-top: 20px;
+    color: #444343;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 20px 25px;
+}
+
+main {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.failure {
+    display: flex;
+    margin-top: 100px;
+    gap: 50px;
+}
+
+.fail-content {
+    text-align: left;
+    padding: 200px auto;
+}
+
+.fail-title {
+    width: 280px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+ul {
+    list-style-image: url('../images/check.png');
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.plan-title {
+    text-align: center;
+}
+
+.plans {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.plan-card {
+    display: flex;
+    gap: 20px;
+}
+
+.plan-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.plan-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.plan-desc {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+.image {
+    background-image: url("../images/gradient2.png");
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+footer {
+    display: flex;
+    gap: 10px;
+    background: #151414;
+    padding-bottom: 200px;
+}
+
+.column-one {
+    width: 50%;
+    padding-right: 50px;
+    color: #FFF;
+}
+
+.footer-contain {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.title {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.title-desc {
+    font-size: 16px;
+    font-weight: 400;
+}
